@@ -1,9 +1,9 @@
 # Jarvis---Your-Python-Voice-Assistant
-🎙️ Jarvis is a Python-based voice assistant that listens to your commands and performs tasks like searching Google/Wikipedia, playing YouTube songs, opening apps, and solving basic math — all through natural speech. Just say "Jarvis" to activate it and let the automation begin! Built using SpeechRecognition, pyttsx3, Wikipedia, and PyWhatKit.
+🎙️ Jarvis is a Python-based voice assistant that listens to your commands and performs tasks like **searching Google/Wikipedia, playing YouTube songs, opening apps, and solving basic math** — all through natural speech. Just say **"Jarvis"** to activate it and let the automation begin! Built using **SpeechRecognition, pyttsx3, Wikipedia, and PyWhatKit.**
 
 ---
 
-🎯 Features
+**🎯 Features**
 
 - 🎙️ Voice recognition using `speech_recognition`
 - 🗣️ Text-to-speech responses via `pyttsx3`
@@ -14,9 +14,9 @@
 - 🧠 Wake word detection ("Jarvis")
 
 ---
- 🚀 Getting Started
+ **🚀 Getting Started**
 
- ✅ Prerequisites
+ **✅ Prerequisites**
 
 Ensure you have Python installed. Then install the required packages:
 
